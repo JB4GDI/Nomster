@@ -45,3 +45,8 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem 'bootstrap-sass', '~> 3.3.4'
+
+## Gemfile for Rails 3+, Sinatra, and Merb
+gem 'will_paginate', '~> 3.0.6'
+
+gem 'simple_form'
